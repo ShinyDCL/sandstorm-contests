@@ -259,6 +259,86 @@
             "name": "sleigh With Scene",
             "id": "c31fd075-4468-4da4-a019-330e51eaf6be",
             "gltfPath": "models/contest6/sleighWithScene.glb"
+        },
+        {
+            "name": "sleigh Asset Display",
+            "id": "c6020cfb-8f6b-4599-babf-65c128c54ae3",
+            "gltfPath": "models/contest6/sleighAssetDisplay.glb"
+        },
+        {
+            "name": "gift Big Green",
+            "id": "8a8a4ceb-2777-434c-8fc0-44db534021f1",
+            "gltfPath": "models/contest6/seperate-models/giftBigGreen.glb"
+        },
+        {
+            "name": "gift Big White1",
+            "id": "89bcef4b-6e32-492a-a1a4-c6aa22ffb56a",
+            "gltfPath": "models/contest6/seperate-models/giftBigWhite1.glb"
+        },
+        {
+            "name": "gift Big White2",
+            "id": "eedfafa7-731c-4063-aab7-d7a84acc4043",
+            "gltfPath": "models/contest6/seperate-models/giftBigWhite2.glb"
+        },
+        {
+            "name": "gift Big White3",
+            "id": "24e58d35-c9fc-4c92-a10f-415d5cf68e6a",
+            "gltfPath": "models/contest6/seperate-models/giftBigWhite3.glb"
+        },
+        {
+            "name": "gift Small Green",
+            "id": "8adbd4b8-a98b-4302-9041-39fe955e4d20",
+            "gltfPath": "models/contest6/seperate-models/giftSmallGreen.glb"
+        },
+        {
+            "name": "gift Small White",
+            "id": "4b14f0af-0d51-4590-a3d0-440ec2c3bbda",
+            "gltfPath": "models/contest6/seperate-models/giftSmallWhite.glb"
+        },
+        {
+            "name": "gift Small White1",
+            "id": "37397b48-c98c-4c5b-8ec6-1ff69d15bf92",
+            "gltfPath": "models/contest6/seperate-models/giftSmallWhite1.glb"
+        },
+        {
+            "name": "gift Small White2",
+            "id": "0e584a3f-1896-4af0-944a-ac93d82f548e",
+            "gltfPath": "models/contest6/seperate-models/giftSmallWhite2.glb"
+        },
+        {
+            "name": "gift Small White3",
+            "id": "994ef54a-9cf6-4993-81ef-af0eb89684b5",
+            "gltfPath": "models/contest6/seperate-models/giftSmallWhite3.glb"
+        },
+        {
+            "name": "plain Sleigh",
+            "id": "93266b77-e12b-4156-9d4c-3905f186c732",
+            "gltfPath": "models/contest6/seperate-models/plainSleigh.glb"
+        },
+        {
+            "name": "reindeer",
+            "id": "9c5ca24e-c509-418d-af4c-7fa523b8f776",
+            "gltfPath": "models/contest6/seperate-models/reindeer.glb"
+        },
+        {
+            "name": "tree Big White",
+            "id": "4772d04d-f026-4006-a3bd-cda39c9d89fd",
+            "gltfPath": "models/contest6/seperate-models/treeBigWhite.glb"
+        },
+        {
+            "name": "tree Small White",
+            "id": "fd951100-d7bf-4160-9a90-cb5fddd39693",
+            "gltfPath": "models/contest6/seperate-models/treeSmallWhite.glb"
+        },
+        {
+            "name": "github Link",
+            "id": "94e8efa0-b1c1-4cca-94b6-ac9f485c6b14",
+            "gltfPath": "models/common/githubLink.glb"
+        },
+        {
+            "name": "twitter Link",
+            "id": "ce4b4202-029f-4ae3-882a-a97ed7cc91fa",
+            "gltfPath": "models/common/twitterLink.glb"
         }
     ]
 }

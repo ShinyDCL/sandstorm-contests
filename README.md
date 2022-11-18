@@ -1,6 +1,27 @@
 # Decentraland scene
 
-This folder contains all the necessary files to launch a Decentraland scene.
+This project contains all of my submissions for Sandstorm's Decentraland contests.
+
+## 3D models
+
+All of the 3D models have been created by me, with exception of default grass and models for links to Github and Twitter. Textures used in 3D models includes work from other people and to use them attribution is required. Textures that are not included in links below have been created by me using Inkscape (free and open-source vector graphics editor).
+
+### Common area
+
+- Stones: <a href="https://www.freepik.com/free-vector/game-texture-stones-pebbles-seamless-pattern_23954927.htm#&position=1&from_view=undefined">Image by upklyak</a> on Freepik
+
+### Contest 4
+
+- Wood door: <a href="https://www.freepik.com/free-vector/textures-different-color-wooden-boards_25581774.htm">Image by upklyak</a> on Freepik
+- Water: <a href="https://www.freepik.com/free-vector/textures-water-green-grass-ivy-leaves-game-background-vector-cartoon-seamless-patterns-top-view-sea-ocean-lake-surface-summer-lawn-wall-with-hedera-plants_21376701.htm#query=texture&position=37&from_view=author">Image by upklyak</a> on Freepik
+
+### Contest 6
+
+- Christmas pattern: Image by <a href="https://www.freepik.com/free-vector/vintage-christmas-pattern_11376227.htm#query=christmas%20pattern&position=17&from_view=search&track=sph">Freepik</a>
+- Gold color: <a href="https://www.freepik.com/free-vector/golden-waves-background_10604135.htm#query=gold&position=6&from_view=search&track=sph">Image by macrovector</a> on Freepik
+- Sofa pattern: <a href="https://www.freepik.com/free-vector/leather-texture-quilt-sofa-upholstery-seamless-background-red-black-brown-elegant-buttoned-fabric-quilted-with-symmetric-sewn-buttons-luxury-furniture-trim-samples-realistic-3d-vector-set_25654710.htm#page=3&query=pattern&position=13&from_view=author">Image by upklyak</a> on Freepik
+
+Textures that are not included in links above have been created by me using Inkscape (free and open-source vector graphics editor).
 
 ## Try it out
 
