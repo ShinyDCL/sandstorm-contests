@@ -1,0 +1,264 @@
+{
+    "gltfAssets": [
+        {
+            "name": "Floor Base Grass 01",
+            "id": "18063e62-f005-4241-8025-36c205aa7533",
+            "gltfPath": "models/grass/FloorBaseGrass_01.glb"
+        },
+        {
+            "name": "pavement One Way",
+            "id": "9779681f-0929-4df7-b393-7da19ccb44be",
+            "gltfPath": "models/pavement/pavementOneWay.glb"
+        },
+        {
+            "name": "pavement Two Way",
+            "id": "38b872b2-0e92-48f5-ae14-2e8574aef4a4",
+            "gltfPath": "models/pavement/pavementTwoWay.glb"
+        },
+        {
+            "name": "fountain",
+            "id": "146fbaa7-8fd1-4d0f-9a12-1749f31d3e29",
+            "gltfPath": "models/contest3/fountain.glb"
+        },
+        {
+            "name": "tree Patch",
+            "id": "ff72a751-c75a-4584-afb5-1ca32e2a6b3f",
+            "gltfPath": "models/contest3/treePatch.glb"
+        },
+        {
+            "name": "island2",
+            "id": "44e4c7e6-fb92-4a29-84ab-d5b5f1bbc098",
+            "gltfPath": "models/island2.glb"
+        },
+        {
+            "name": "path Way",
+            "id": "cae9e826-6dbf-4730-99d9-92c544cf8519",
+            "gltfPath": "models/pavement/pathWay.glb"
+        },
+        {
+            "name": "path Way",
+            "id": "b622f435-79e5-461e-b7c2-bfa2a42f7e1e",
+            "gltfPath": "models/common/pathWay.glb"
+        },
+        {
+            "name": "Floor Base Grass 01",
+            "id": "bb9afbb1-09cc-4559-bd65-ed92c99d60f6",
+            "gltfPath": "models/common/grass/FloorBaseGrass_01.glb"
+        },
+        {
+            "name": "ground Light",
+            "id": "913f8fae-8b44-463f-8b97-77bf7f05bea8",
+            "gltfPath": "models/common/separate-models/groundLight.glb"
+        },
+        {
+            "name": "pavement One Way",
+            "id": "5a61e910-0644-4985-954c-c4af8dfc55b2",
+            "gltfPath": "models/common/separate-models/pavementOneWay.glb"
+        },
+        {
+            "name": "pavement Two Way",
+            "id": "5f598e84-8d9c-4c69-b639-bb894d5541b5",
+            "gltfPath": "models/common/separate-models/pavementTwoWay.glb"
+        },
+        {
+            "name": "pavement Two Way Long",
+            "id": "ebd2ba1d-d70e-41bc-93de-8e3e22a2aba0",
+            "gltfPath": "models/common/separate-models/pavementTwoWayLong.glb"
+        },
+        {
+            "name": "stand Plain",
+            "id": "66b61f64-e856-405d-98e4-b60b6de7cd70",
+            "gltfPath": "models/common/separate-models/standPlain.glb"
+        },
+        {
+            "name": "github Link",
+            "id": "21910cd6-8cd8-4ddc-8cd7-86b3946841a1",
+            "gltfPath": "models/common/separate-models/githubLink.glb"
+        },
+        {
+            "name": "twitter Link",
+            "id": "e1d7e183-8957-46d4-a6d4-d13350c207aa",
+            "gltfPath": "models/common/separate-models/twitterLink.glb"
+        },
+        {
+            "name": "fountain Asset Display",
+            "id": "c796ef27-d1aa-482b-b2a3-5dd66e4aa248",
+            "gltfPath": "models/contest3/fountainAssetDisplay.glb"
+        },
+        {
+            "name": "bird",
+            "id": "f0d7482d-6ef8-4b78-8f1e-0062e7d8b744",
+            "gltfPath": "models/contest3/separate-models/bird.glb"
+        },
+        {
+            "name": "bird With Legs",
+            "id": "387a0915-76e0-4505-a25b-8f1d4c637f3a",
+            "gltfPath": "models/contest3/separate-models/birdWithLegs.glb"
+        },
+        {
+            "name": "lilypad Dark Blue",
+            "id": "730be3b7-465b-47dc-adb4-9ebcae805932",
+            "gltfPath": "models/contest3/separate-models/lilypadDarkBlue.glb"
+        },
+        {
+            "name": "lilypad Dark Pink",
+            "id": "85ad1893-fb08-4ae5-9368-7053bdd99b09",
+            "gltfPath": "models/contest3/separate-models/lilypadDarkPink.glb"
+        },
+        {
+            "name": "lilypad Leaf",
+            "id": "42d62b8a-13a9-45ea-8cbd-668789e22cb6",
+            "gltfPath": "models/contest3/separate-models/lilypadLeaf.glb"
+        },
+        {
+            "name": "lilypad Light Blue",
+            "id": "f340e436-d68d-4946-ac4e-604805e9d1d6",
+            "gltfPath": "models/contest3/separate-models/lilypadLightBlue.glb"
+        },
+        {
+            "name": "lilypad Light Pink",
+            "id": "d0f43a2e-9ca8-4a90-8070-5776d69dc77d",
+            "gltfPath": "models/contest3/separate-models/lilypadLightPink.glb"
+        },
+        {
+            "name": "plain Fountain",
+            "id": "87f6e027-3699-40e6-b9c3-c203bf5b6f7b",
+            "gltfPath": "models/contest3/separate-models/plainFountain.glb"
+        },
+        {
+            "name": "tree Big Dark",
+            "id": "04d1ae52-6d32-4838-86eb-296188b42d1d",
+            "gltfPath": "models/contest3/separate-models/treeBigDark.glb"
+        },
+        {
+            "name": "tree Big Light",
+            "id": "827f6cf2-7a1c-41b5-906d-abd5cc6dd2a6",
+            "gltfPath": "models/contest3/separate-models/treeBigLight.glb"
+        },
+        {
+            "name": "tree Big Medium",
+            "id": "e39b5df8-3d76-441a-be99-58dcd1ec2214",
+            "gltfPath": "models/contest3/separate-models/treeBigMedium.glb"
+        },
+        {
+            "name": "tree Small Dark",
+            "id": "2aa998f4-d494-4494-9afc-1428fe335ab9",
+            "gltfPath": "models/contest3/separate-models/treeSmallDark.glb"
+        },
+        {
+            "name": "tree Small Light",
+            "id": "dc75b3ec-abb0-46f2-8ee7-5c9c0f658369",
+            "gltfPath": "models/contest3/separate-models/treeSmallLight.glb"
+        },
+        {
+            "name": "tree Small Medium",
+            "id": "4bfa6f26-161e-4402-aabe-6696d31f9498",
+            "gltfPath": "models/contest3/separate-models/treeSmallMedium.glb"
+        },
+        {
+            "name": "island",
+            "id": "1ccf06c5-aade-403a-ae56-cc648d5d8d7c",
+            "gltfPath": "models/contest4/island.glb"
+        },
+        {
+            "name": "brown Big Mushroom House",
+            "id": "cee633cd-d44b-4aa8-8517-a2b1869c4e35",
+            "gltfPath": "models/contest4/separate-models/brownBigMushroomHouse.glb"
+        },
+        {
+            "name": "brown Small Mushroom House",
+            "id": "40451128-b544-487a-9ff6-729ac63852a8",
+            "gltfPath": "models/contest4/separate-models/brownSmallMushroomHouse.glb"
+        },
+        {
+            "name": "mushroom Brown Big",
+            "id": "6ac65206-1929-47e4-bf2f-250f2909f4bd",
+            "gltfPath": "models/contest4/separate-models/mushroomBrownBig.glb"
+        },
+        {
+            "name": "mushroom Brown Small",
+            "id": "a3093fca-dd40-483e-9b74-83f29701c456",
+            "gltfPath": "models/contest4/separate-models/mushroomBrownSmall.glb"
+        },
+        {
+            "name": "mushroom Purple",
+            "id": "85af5b32-1909-4691-bedc-2d2042e54137",
+            "gltfPath": "models/contest4/separate-models/mushroomPurple.glb"
+        },
+        {
+            "name": "mushroom Red",
+            "id": "d57b2130-c1c5-400f-8732-edc0fa65eec1",
+            "gltfPath": "models/contest4/separate-models/mushroomRed.glb"
+        },
+        {
+            "name": "mushroom With Dots Big",
+            "id": "08aac2f3-daea-42b8-8f68-432d0fe4e4e3",
+            "gltfPath": "models/contest4/separate-models/mushroomWithDotsBig.glb"
+        },
+        {
+            "name": "mushroom With Dots Small",
+            "id": "335ddd93-c394-4d9d-99e5-b93ff19610a9",
+            "gltfPath": "models/contest4/separate-models/mushroomWithDotsSmall.glb"
+        },
+        {
+            "name": "mushroom Yellow",
+            "id": "00f73948-8455-45b0-8095-5a19bd65df77",
+            "gltfPath": "models/contest4/separate-models/mushroomYellow.glb"
+        },
+        {
+            "name": "pumpkin Big",
+            "id": "3e3ab391-c3d7-4bf8-9a8c-754a7919d7af",
+            "gltfPath": "models/contest4/separate-models/pumpkinBig.glb"
+        },
+        {
+            "name": "pumpkin Green",
+            "id": "15eaccbc-2a63-4e16-aafb-568d38620699",
+            "gltfPath": "models/contest4/separate-models/pumpkinGreen.glb"
+        },
+        {
+            "name": "pumpkin Light Orange",
+            "id": "8ffef0ee-8df9-4921-8c2f-7b5aa47e6dd6",
+            "gltfPath": "models/contest4/separate-models/pumpkinLightOrange.glb"
+        },
+        {
+            "name": "pumpkin Orange",
+            "id": "23bb6726-2522-4b20-be38-82c92e3ef097",
+            "gltfPath": "models/contest4/separate-models/pumpkinOrange.glb"
+        },
+        {
+            "name": "pumpkin Orange Plain",
+            "id": "fe16bcdd-fada-4466-b5dd-c0c80106a450",
+            "gltfPath": "models/contest4/separate-models/pumpkinOrangePlain.glb"
+        },
+        {
+            "name": "pumpkin Striped",
+            "id": "a32faea1-db94-4bca-80b4-c920c6448f9c",
+            "gltfPath": "models/contest4/separate-models/pumpkinStriped.glb"
+        },
+        {
+            "name": "red Mushroom House",
+            "id": "2a7989c7-610d-4e0b-96b4-0825257b2fdd",
+            "gltfPath": "models/contest4/separate-models/redMushroomHouse.glb"
+        },
+        {
+            "name": "island Asset Display",
+            "id": "4eb21687-a6bd-42d2-af4f-513b499701f3",
+            "gltfPath": "models/contest4/islandAssetDisplay.glb"
+        },
+        {
+            "name": "pumpkin With Hat",
+            "id": "b2fd8ef5-971a-44d3-bb1c-2918055065a6",
+            "gltfPath": "models/contest4/separate-models/pumpkinWithHat.glb"
+        },
+        {
+            "name": "island Walls",
+            "id": "3845e9e7-f757-4e6e-8dd1-ac04c07e29c4",
+            "gltfPath": "models/contest4/islandWalls.glb"
+        },
+        {
+            "name": "sleigh With Scene",
+            "id": "c31fd075-4468-4da4-a019-330e51eaf6be",
+            "gltfPath": "models/contest6/sleighWithScene.glb"
+        }
+    ]
+}
