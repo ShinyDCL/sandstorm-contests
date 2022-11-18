@@ -12,4 +12,5 @@ export const TWITTER_CONTEST_3 =
   'https://twitter.com/ShinyDCL/status/1572646182937133057';
 export const TWITTER_CONTEST_4 =
   'https://twitter.com/ShinyDCL/status/1578147568525406211';
-export const TWITTER_CONTEST_6 = '';
+export const TWITTER_CONTEST_6 =
+  'https://twitter.com/ShinyDCL/status/1593656248939036676';
