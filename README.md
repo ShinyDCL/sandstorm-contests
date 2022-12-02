@@ -21,7 +21,23 @@ All of the 3D models have been created by me, with exception of default grass an
 - Gold color: <a href="https://www.freepik.com/free-vector/golden-waves-background_10604135.htm#query=gold&position=6&from_view=search&track=sph">Image by macrovector</a> on Freepik
 - Sofa pattern: <a href="https://www.freepik.com/free-vector/leather-texture-quilt-sofa-upholstery-seamless-background-red-black-brown-elegant-buttoned-fabric-quilted-with-symmetric-sewn-buttons-luxury-furniture-trim-samples-realistic-3d-vector-set_25654710.htm#page=3&query=pattern&position=13&from_view=author">Image by upklyak</a> on Freepik
 
-Textures that are not included in links above have been created by me using Inkscape (free and open-source vector graphics editor).
+### Contest 7
+
+- Bricks for building: <a href="https://ambientcg.com/view?id=Bricks052">ambientCG</a>
+- Pavement outside building: <a href="https://ambientcg.com/view?id=PavingStones115A">ambientCG</a>
+- Floor: <a href="https://ambientcg.com/view?id=Planks003">ambientCG</a>
+- Wood used for furniture/doors: <a href="https://ambientcg.com/view?id=Wood028">ambientCG</a>
+- Paper: <a href="https://ambientcg.com/view?id=Paper002">ambientCG</a>
+- Leather for book covers: <a href="https://ambientcg.com/view?id=Leather014">ambientCG</a>
+- Labels used for wand boxes:
+  - <a href="https://www.freepik.com/free-vector/set-vintage-labels-frame_13583382.htm">Image by kenshinstock</a> on Freepik
+  - <a href="https://www.freepik.com/free-vector/golden-labels-set_4561095.htm">Image by rawpixel.com</a> on Freepik
+  - <a href="https://www.freepik.com/free-vector/collection-set-label-ornament-vector-illustration_3374305.htm">Image by rawpixel.com</a> on Freepik
+  - <a href="https://www.freepik.com/free-vector/stylish-golden-frame-floral-red-banner-design_28268260.htm">Image by Creative_hat</a> on Freepik
+  - Image by <a href="https://www.freepik.com/free-vector/vintage-golden-frames-set_1050491.htm">Freepik</a>
+  - <a href="https://www.freepik.com/free-vector/premium-quality-banner-collection_4393435.htm">Image by rawpixel.com</a> on Freepik
+
+For some of these textures I have edited color and some I have combined in one image to reduce texture count in scene.
 
 ## Try it out
 
