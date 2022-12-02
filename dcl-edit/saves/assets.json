@@ -339,6 +339,16 @@
             "name": "twitter Link",
             "id": "ce4b4202-029f-4ae3-882a-a97ed7cc91fa",
             "gltfPath": "models/common/twitterLink.glb"
+        },
+        {
+            "name": "store",
+            "id": "57ee5c0c-3306-4290-9a38-a756771e70e7",
+            "gltfPath": "models/contest7/store.glb"
+        },
+        {
+            "name": "wand",
+            "id": "64f0d3a4-927e-4e39-8ec9-0a1d7748a419",
+            "gltfPath": "models/contest7/wand.glb"
         }
     ]
 }

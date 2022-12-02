@@ -12,6 +12,11 @@ import {
 } from './config';
 import { Link, LinkType } from './link';
 import { scene } from './scene';
+import { setupWandStore } from './setupWandStore';
+
+const canvas = new UICanvas();
+const texture = new Texture('images/image-atlas.png');
+const input = Input.instance;
 
 new Link(scene.githubLink2, GITHUB_CONTEST_2, LinkType.GITHUB);
 new Link(scene.githubLink3, GITHUB_CONTEST_3, LinkType.GITHUB);
@@ -68,3 +73,5 @@ scene.fountain.entity.addComponentOrReplace(
     { hoverText: 'Drink!' }
   )
 );
+
+setupWandStore(canvas, texture, input);
