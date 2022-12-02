@@ -80,7 +80,7 @@ export const setupWandStore = (
   const onPressE1 = () => {
     exploded = true;
     vaseExplosion.play();
-    unsubscribe(onPressE1, onPressF1);
+    unsubscribe(onPressE1);
   };
 
   const onPressF1 = () => {
@@ -90,7 +90,7 @@ export const setupWandStore = (
     } else {
       wand1.addComponentOrReplace(wand1OnPointerDown);
     }
-    unsubscribe(onPressE1);
+    unsubscribe(onPressE1, onPressF1);
     detachFromAvatar(wand1, wand1Transform);
   };
 
