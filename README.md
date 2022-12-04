@@ -10,10 +10,14 @@ All of the 3D models have been created by me, with exception of default grass an
 
 - Stones: <a href="https://www.freepik.com/free-vector/game-texture-stones-pebbles-seamless-pattern_23954927.htm#&position=1&from_view=undefined">Image by upklyak</a> on Freepik
 
-### Contest 4
+### Contest 4 (Lost island)
 
-- Wood door: <a href="https://www.freepik.com/free-vector/textures-different-color-wooden-boards_25581774.htm">Image by upklyak</a> on Freepik
-- Water: <a href="https://www.freepik.com/free-vector/textures-water-green-grass-ivy-leaves-game-background-vector-cartoon-seamless-patterns-top-view-sea-ocean-lake-surface-summer-lawn-wall-with-hedera-plants_21376701.htm#query=texture&position=37&from_view=author">Image by upklyak</a> on Freepik
+- Wood for doors: <a href="https://ambientcg.com/view?id=Planks003">ambientCG</a>
+- Water (actually it is ice): <a href="https://ambientcg.com/view?id=Ice003">ambientCG</a>
+
+I have edited texture color to be more suitable for my work.
+
+All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License. <a href="https://docs.ambientcg.com/books/website-licensing/page/license-information">License information</a>
 
 ### Contest 6
 
