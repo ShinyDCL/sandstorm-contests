@@ -4,29 +4,38 @@ This project contains all of my submissions for Sandstorm's Decentraland contest
 
 ## 3D models
 
-All of the 3D models have been created by me, with exception of default grass and models for links to Github and Twitter. Textures used in 3D models includes work from other people and to use them attribution is required. Textures that are not included in links below have been created by me using Inkscape (free and open-source vector graphics editor).
+All of the 3D models have been created by me, with the exception of default grass and Github and Twitter links, which are from Decentraland Builder.
+Textures used in 3D models and their sources:
+
+- Color palette from Decentraland builder
+- Some simpler textures (for example, gradient colors) have been created by me using Inkscape (free and open-source vector graphics editor).
+- ambientCG, all ambientCG assets are under the Creative Commons CC0 1.0 Universal License. <a href="https://docs.ambientcg.com/books/website-licensing/page/license-information">License information</a>. For some textures I have edited color to be more suitable for my work.
+- Generated using <a href="https://beta.dreamstudio.ai/">DreamStudio AI</a>
 
 ### Common area
 
 - Stones: <a href="https://www.freepik.com/free-vector/game-texture-stones-pebbles-seamless-pattern_23954927.htm#&position=1&from_view=undefined">Image by upklyak</a> on Freepik
 
+### Contest 3 (Lost fountain)
+
+- Color palette from Decentraland builder
+
 ### Contest 4 (Lost island)
 
+- Color palette from Decentraland builder
+- Gradient colors, sky with stars created by me using Inkscape
 - Wood for doors: <a href="https://ambientcg.com/view?id=Planks003">ambientCG</a>
-- Water (actually it is ice): <a href="https://ambientcg.com/view?id=Ice003">ambientCG</a>
+- Water: <a href="https://ambientcg.com/view?id=Ice003">ambientCG</a>
 
-I have edited texture color to be more suitable for my work.
+### Contest 6 (The rescue)
 
-All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License. <a href="https://docs.ambientcg.com/books/website-licensing/page/license-information">License information</a>
-
-### Contest 6
-
-- Christmas pattern: Image by <a href="https://www.freepik.com/free-vector/vintage-christmas-pattern_11376227.htm#query=christmas%20pattern&position=17&from_view=search&track=sph">Freepik</a>
-- Gold color: <a href="https://www.freepik.com/free-vector/golden-waves-background_10604135.htm#query=gold&position=6&from_view=search&track=sph">Image by macrovector</a> on Freepik
-- Sofa pattern: <a href="https://www.freepik.com/free-vector/leather-texture-quilt-sofa-upholstery-seamless-background-red-black-brown-elegant-buttoned-fabric-quilted-with-symmetric-sewn-buttons-luxury-furniture-trim-samples-realistic-3d-vector-set_25654710.htm#page=3&query=pattern&position=13&from_view=author">Image by upklyak</a> on Freepik
+- Color palette, textures for reindeer created by me using Inkscape
+- Christmas pattern for gift boxes generated using DreamStudio AI (prompt used: Christmas pattern with white background, dark red holly berries, green leaves and candy canes)
+- Sofa pattern: <a href="https://ambientcg.com/view?id=Fabric009">ambientCG</a>
 
 ### Contest 7
 
+- Gradient colors, texts created by me using Inkscape
 - Bricks for building: <a href="https://ambientcg.com/view?id=Bricks052">ambientCG</a>
 - Pavement outside building: <a href="https://ambientcg.com/view?id=PavingStones115A">ambientCG</a>
 - Floor: <a href="https://ambientcg.com/view?id=Planks003">ambientCG</a>
@@ -40,8 +49,6 @@ All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal L
   - <a href="https://www.freepik.com/free-vector/stylish-golden-frame-floral-red-banner-design_28268260.htm">Image by Creative_hat</a> on Freepik
   - Image by <a href="https://www.freepik.com/free-vector/vintage-golden-frames-set_1050491.htm">Freepik</a>
   - <a href="https://www.freepik.com/free-vector/premium-quality-banner-collection_4393435.htm">Image by rawpixel.com</a> on Freepik
-
-For some of these textures I have edited color and some I have combined in one image to reduce texture count in scene.
 
 ## Try it out
 
