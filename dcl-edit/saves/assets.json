@@ -349,6 +349,136 @@
             "name": "wand",
             "id": "64f0d3a4-927e-4e39-8ec9-0a1d7748a419",
             "gltfPath": "models/contest7/wand.glb"
+        },
+        {
+            "name": "scene",
+            "id": "b797b71b-d179-4d8f-b3c2-2382be295c42",
+            "gltfPath": "models/contest2/scene.glb"
+        },
+        {
+            "name": "vintage Record Player",
+            "id": "cd261b9d-c427-41b1-aff1-a748a102d33a",
+            "gltfPath": "models/contest2/vintageRecordPlayer.glb"
+        },
+        {
+            "name": "walls",
+            "id": "c5f5d913-9a36-4120-96d0-e2c3fc1cf851",
+            "gltfPath": "models/contest2/walls.glb"
+        },
+        {
+            "name": "lights",
+            "id": "b0ae040b-5a6c-4682-86bf-26aa533fe82c",
+            "gltfPath": "models/contest2/separate-models/lights.glb"
+        },
+        {
+            "name": "sofa",
+            "id": "4226671b-0b6e-4bac-b9c7-5698dd7f9b92",
+            "gltfPath": "models/contest2/separate-models/sofa.glb"
+        },
+        {
+            "name": "sleigh With Reindeer",
+            "id": "c8122d85-1959-4de8-9ce2-3dbb0afd555b",
+            "gltfPath": "models/contest6/seperate-models/sleighWithReindeer.glb"
+        },
+        {
+            "name": "black Box",
+            "id": "2733d6fc-d593-4f8e-8f11-8c0184907462",
+            "gltfPath": "models/contest7/separate-models/blackBox.glb"
+        },
+        {
+            "name": "blue Box",
+            "id": "9239afd4-5f68-438d-a3d3-7280132524af",
+            "gltfPath": "models/contest7/separate-models/blueBox.glb"
+        },
+        {
+            "name": "book",
+            "id": "75a16c1a-155c-4a1b-b56d-dd45a71710f3",
+            "gltfPath": "models/contest7/separate-models/book.glb"
+        },
+        {
+            "name": "brown Box",
+            "id": "7bcb82e8-cceb-46ef-b946-aaeea8e87a53",
+            "gltfPath": "models/contest7/separate-models/brownBox.glb"
+        },
+        {
+            "name": "frame",
+            "id": "6aaf2d6e-709c-4799-a27c-391ad4313403",
+            "gltfPath": "models/contest7/separate-models/frame.glb"
+        },
+        {
+            "name": "grey Box",
+            "id": "ea383390-0823-45a4-b80e-2d87ae1595d7",
+            "gltfPath": "models/contest7/separate-models/greyBox.glb"
+        },
+        {
+            "name": "neutral Box",
+            "id": "a0dbb37d-61a0-417d-9a93-a02ccde75e2e",
+            "gltfPath": "models/contest7/separate-models/neutralBox.glb"
+        },
+        {
+            "name": "open Book",
+            "id": "147c4f86-a50d-49da-b1af-43706b0220b9",
+            "gltfPath": "models/contest7/separate-models/openBook.glb"
+        },
+        {
+            "name": "red Box",
+            "id": "ba58b9c8-3614-4c76-882a-196bde3d988e",
+            "gltfPath": "models/contest7/separate-models/redBox.glb"
+        },
+        {
+            "name": "shelf Big With Wands1",
+            "id": "136cff1c-d80b-43fa-9446-376912102726",
+            "gltfPath": "models/contest7/separate-models/shelfBigWithWands1.glb"
+        },
+        {
+            "name": "shelf Big With Wands2",
+            "id": "b33f85f6-b14f-44f0-beb2-33f30d800607",
+            "gltfPath": "models/contest7/separate-models/shelfBigWithWands2.glb"
+        },
+        {
+            "name": "shelf Medium Empty",
+            "id": "28cc6075-d4ae-4267-a40e-7913f95e193b",
+            "gltfPath": "models/contest7/separate-models/shelfMediumEmpty.glb"
+        },
+        {
+            "name": "shelf Medium With Wands1",
+            "id": "ce426c11-c5d5-47f6-8bef-82fdf23fdc55",
+            "gltfPath": "models/contest7/separate-models/shelfMediumWithWands1.glb"
+        },
+        {
+            "name": "shelf Medium With Wands2",
+            "id": "790165cc-f2fe-49f9-abc7-148eca738694",
+            "gltfPath": "models/contest7/separate-models/shelfMediumWithWands2.glb"
+        },
+        {
+            "name": "shelf Small Empty",
+            "id": "819ae14d-bfc1-4cdf-a2e8-f1f694b7fbd4",
+            "gltfPath": "models/contest7/separate-models/shelfSmallEmpty.glb"
+        },
+        {
+            "name": "shelf Small With Wands1",
+            "id": "992b8194-333a-492f-928a-0f02962dfddb",
+            "gltfPath": "models/contest7/separate-models/shelfSmallWithWands1.glb"
+        },
+        {
+            "name": "shelf Small With Wands2",
+            "id": "0c0d616f-05e0-4f78-ac65-e5704eddeb18",
+            "gltfPath": "models/contest7/separate-models/shelfSmallWithWands2.glb"
+        },
+        {
+            "name": "shelf Thin With Wands1",
+            "id": "642aa180-6e98-47a1-bfb3-9a2be8663ccb",
+            "gltfPath": "models/contest7/separate-models/shelfThinWithWands1.glb"
+        },
+        {
+            "name": "shelf Thin With Wands2",
+            "id": "107f0a3d-24ac-43ba-ba82-2ea18d5a87de",
+            "gltfPath": "models/contest7/separate-models/shelfThinWithWands2.glb"
+        },
+        {
+            "name": "stairs",
+            "id": "06e19e67-b735-4312-ad1c-44ea38036fd3",
+            "gltfPath": "models/contest7/separate-models/stairs.glb"
         }
     ]
 }

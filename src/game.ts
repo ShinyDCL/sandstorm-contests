@@ -14,6 +14,7 @@ import {
 } from './config';
 import { Link, LinkType } from './link';
 import { scene } from './scene';
+import { setupVintageScene } from './setUpVintageScene';
 import { setupWandStore } from './setupWandStore';
 
 const canvas = new UICanvas();
@@ -78,4 +79,5 @@ scene.fountain.entity.addComponentOrReplace(
   )
 );
 
+setupVintageScene();
 setupWandStore(canvas, texture, input);

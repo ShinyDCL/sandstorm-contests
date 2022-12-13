@@ -1,4 +1,5 @@
-export const GITHUB_CONTEST_2 = '';
+export const GITHUB_CONTEST_2 =
+  'https://github.com/ShinyDCL/sandstorm-contests/tree/main/models/contest2';
 export const GITHUB_CONTEST_3 =
   'https://github.com/ShinyDCL/sandstorm-contests/tree/main/models/contest3';
 export const GITHUB_CONTEST_4 =

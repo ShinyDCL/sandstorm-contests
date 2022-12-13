@@ -16,6 +16,14 @@ Textures used in 3D models and their sources:
 
 - Stones: <a href="https://www.freepik.com/free-vector/game-texture-stones-pebbles-seamless-pattern_23954927.htm#&position=1&from_view=undefined">Image by upklyak</a> on Freepik
 
+### Contest 2 (A blip in time)
+
+- Color palette from Decentraland builder
+- Gradient colors created by me using Inkscape
+- Pattern for sofa generated using DreamStudio AI
+- Wood used for stage: <a href="https://ambientcg.com/view?id=Wood028">ambientCG</a>
+- Wood used for floor: <a href="https://ambientcg.com/view?id=WoodFloor037">ambientCG</a>
+
 ### Contest 3 (Lost fountain)
 
 - Color palette from Decentraland builder
