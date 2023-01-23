@@ -1,15 +1,17 @@
-import { Model, ModelConstructorArgs } from './model';
-
 export enum LinkType {
   TWITTER = 'Twitter',
   GITHUB = 'Github',
 }
 
-export class Link extends Model {
-  constructor(model: ModelConstructorArgs, link: string, linkType: LinkType) {
-    super(model);
+export interface ISceneObject {
+  entity: Entity;
+  transform: Transform;
+  GLTFShape: GLTFShape;
+}
 
-    this.entity.addComponent(
+export class Link {
+  constructor(sceneObject: ISceneObject, link: string, linkType: LinkType) {
+    sceneObject.entity.addComponent(
       new OnPointerDown(() => openExternalURL(link), { hoverText: linkType })
     );
   }

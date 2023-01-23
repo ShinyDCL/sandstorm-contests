@@ -1,15 +1,15 @@
 import * as utils from '@dcl/ecs-scene-utils';
 import { scene } from './scene';
 
-export const setupVintageScene = () => {
-  const sceneWalls = scene.vintagescenewalls.GLTFShape;
+export const setupLostIsland = () => {
+  const sceneWalls = scene.islandWalls.GLTFShape;
   sceneWalls.withCollisions = false;
   sceneWalls.visible = false;
   sceneWalls.isPointerBlocker = false;
 
-  const triggerBox = new utils.TriggerBoxShape(new Vector3(16, 16, 16));
+  const triggerBox = new utils.TriggerBoxShape(new Vector3(31, 28, 31));
 
-  scene.vintagescenewalls.entity.addComponent(
+  scene.islandWalls.entity.addComponent(
     new utils.TriggerComponent(triggerBox, {
       onCameraEnter: () => {
         sceneWalls.visible = true;

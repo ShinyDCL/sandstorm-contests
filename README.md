@@ -50,13 +50,7 @@ Textures used in 3D models and their sources:
 - Wood used for furniture/doors: <a href="https://ambientcg.com/view?id=Wood028">ambientCG</a>
 - Paper: <a href="https://ambientcg.com/view?id=Paper002">ambientCG</a>
 - Leather for book covers: <a href="https://ambientcg.com/view?id=Leather014">ambientCG</a>
-- Labels used for wand boxes:
-  - <a href="https://www.freepik.com/free-vector/set-vintage-labels-frame_13583382.htm">Image by kenshinstock</a> on Freepik
-  - <a href="https://www.freepik.com/free-vector/golden-labels-set_4561095.htm">Image by rawpixel.com</a> on Freepik
-  - <a href="https://www.freepik.com/free-vector/collection-set-label-ornament-vector-illustration_3374305.htm">Image by rawpixel.com</a> on Freepik
-  - <a href="https://www.freepik.com/free-vector/stylish-golden-frame-floral-red-banner-design_28268260.htm">Image by Creative_hat</a> on Freepik
-  - Image by <a href="https://www.freepik.com/free-vector/vintage-golden-frames-set_1050491.htm">Freepik</a>
-  - <a href="https://www.freepik.com/free-vector/premium-quality-banner-collection_4393435.htm">Image by rawpixel.com</a> on Freepik
+- Labels used for wand boxes generated using DreamStudio AI, edited using Inkscape
 
 ## Try it out
 
