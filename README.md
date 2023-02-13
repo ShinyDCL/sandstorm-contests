@@ -41,7 +41,7 @@ Textures used in 3D models and their sources:
 - Christmas pattern for gift boxes generated using DreamStudio AI (prompt used: Christmas pattern with white background, dark red holly berries, green leaves and candy canes)
 - Sofa pattern: <a href="https://ambientcg.com/view?id=Fabric009">ambientCG</a>
 
-### Contest 7
+### Contest 7 (Movie marathon)
 
 - Gradient colors, texts created by me using Inkscape
 - Bricks for building: <a href="https://ambientcg.com/view?id=Bricks052">ambientCG</a>
@@ -51,6 +51,15 @@ Textures used in 3D models and their sources:
 - Paper: <a href="https://ambientcg.com/view?id=Paper002">ambientCG</a>
 - Leather for book covers: <a href="https://ambientcg.com/view?id=Leather014">ambientCG</a>
 - Labels used for wand boxes generated using DreamStudio AI, edited using Inkscape
+
+### Contest 12 (Valentine's Day)
+
+- Color palette from Decentraland builder
+- Marble for building: <a href="https://ambientcg.com/view?id=Marble019">ambientCG</a>
+- Pavement for ground: <a href="https://ambientcg.com/view?id=PavingStones125A">ambientCG</a>
+- Fabric (carpet) for platforms: <a href="https://ambientcg.com/view?id=Fabric062">ambientCG</a>
+- Chip texture for glass: <a href="https://ambientcg.com/view?id=Chip006">ambientCG</a>
+- Images used as textures for plant leaves, keyboard, cookies and flowers generated using Midjourney AI
 
 ## Try it out
 
